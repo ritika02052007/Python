@@ -7,17 +7,17 @@ I created this repository to strengthen my fundamentals, improve logic building,
 
 🚀 Topics Covered:-
 
-✨ Python Basics
-✨ Operators
-✨ Conditional Statements
-✨ Loops
-✨ Lists
-✨ Tuples
-✨ Sets
-✨ Dictionaries
-✨ Functions
-✨ File Handling
-✨ Practice Programs
+✨ Python Basics. 
+✨ Operators. 
+✨ Conditional Statements. 
+✨ Loops. 
+✨ Lists. 
+✨ Tuples. 
+✨ Sets. 
+✨ Dictionaries. 
+✨ Functions. 
+✨ File Handling. 
+✨ Practice Programs. 
 
 
 
